@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "961064406736",
+    "firebase_url": "https://aidpoint-v2-default-rtdb.firebaseio.com",
+    "project_id": "aidpoint-v2",
+    "storage_bucket": "aidpoint-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961064406736:android:1cddb36e1cdb3f1deb98d5",
+        "android_client_info": {
+          "package_name": "com.panda.aidpoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7aUONNU3M16YyJEnw578t_jaM99e5YNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
