@@ -38,7 +38,7 @@ AidPoint V2 is a comprehensive disaster relief and aid management platform built
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AidPoint_V2.git
+   git clone https://github.com/virdiarsh17-bot/AidPoint.git
    cd AidPoint_V2/aidpoint
    ```
 
